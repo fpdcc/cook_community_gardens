@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Cook County Sagawau Environmental Learning Center", "Address": "12545 W. 111th St. Lemont, IL", "Phone_Numb": "630-257-2045" }, "geometry": { "type": "Point", "coordinates": [ -87.929199047803962, 41.687709557923789 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Cook County Hal Tyrrell Trailside Museum", "Address": "738 Thatcher Ave, River Forest, IL 60305", "Phone_Numb": "708-366-6530" }, "geometry": { "type": "Point", "coordinates": [ -87.825637341144912, 41.892400824820228 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Cook County Crabtree Nature Center", "Address": "3 Stover Rd., Barrington Hills, IL 60010", "Phone_Numb": "847-381-6592" }, "geometry": { "type": "Point", "coordinates": [ -88.160944, 42.110437 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "The Grove Interpretive Center", "Address": "1421 Milwaukee Ave, Glenview, IL 60025", "Phone_Numb": "847-299-6096" }, "geometry": { "type": "Point", "coordinates": [ -87.864806725749929, 42.083635278872258 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Tyner Center and Air Station Prairie", "Address": "2499 Compass Rd, Glenview. IL 60026", "Phone_Numb": "847-901-6828" }, "geometry": { "type": "Point", "coordinates": [ -87.819597291724989, 42.100595071218642 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Cook County Sand Ridge Nature Center", "Address": "15891 Paxton Ave, South Holland, IL 60473", "Phone_Numb": null }, "geometry": { "type": "Point", "coordinates": [ -87.568545498908207, 41.606926262735492 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Ladd Arboretum", "Address": "2024 McCormick Blvd., Evanston, IL 60201", "Phone_Numb": null }, "geometry": { "type": "Point", "coordinates": [ -87.700464087554721, 42.056622248517684 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Thorn Creek Nature Center", "Address": "247 Monee Rd, Park Forest, IL 60466", "Phone_Numb": null }, "geometry": { "type": "Point", "coordinates": [ -87.677947142464333, 41.471494855537756 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "WIldwood Nature Center", "Address": "2701 W Sibley St, Park Ridge, IL 60068", "Phone_Numb": "847-692-3570" }, "geometry": { "type": "Point", "coordinates": [ -87.861579771199473, 42.017429527518615 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "North Park Nature Center", "Address": "5801 N Pulaski Rd, Chicago, IL 60646", "Phone_Numb": "312-744-5472" }, "geometry": { "type": "Point", "coordinates": [ -87.724783815331321, 41.981014812087444 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Evanston Environmental Association", "Address": "2024 N McCormick Blvd, Evanston, IL 60201", "Phone_Numb": "847-448-8256" }, "geometry": { "type": "Point", "coordinates": [ -87.700961490596214, 42.056632607112263 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Keay Nature Learning Center", "Address": "330 Hibbard Road, Wilmette, IL 60091", "Phone_Numb": "847 256 6100" }, "geometry": { "type": "Point", "coordinates": [ -87.751389591498608, 42.076581728620852 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Emily Oaks Nature Center", "Address": "4650 Brummel Street, Skokie, IL 60076", "Phone_Numb": "847 674 1500" }, "geometry": { "type": "Point", "coordinates": [ -87.744034427225827, 42.020894355894796 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Stillman Nature Center", "Address": "33 W. Penny Road, South Barrington, IL 60010", "Phone_Numb": "847 428 6957" }, "geometry": { "type": "Point", "coordinates": [ -88.169869786317051, 42.095576414641201 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Vera Meineke Nature Center", "Address": "1111 E. Schaumburg Road, Schaumburg, IL 60194", "Phone_Numb": "847 985 2100" }, "geometry": { "type": "Point", "coordinates": [ -88.056613317754739, 42.023734851453362 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Cook County River Trail Nature Center", "Address": "3120 Milwaukee Ave, Northbrook, IL 60062", "Phone_Numb": "847 824 8360" }, "geometry": { "type": "Point", "coordinates": [ -87.884469689458612, 42.095257157872851 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Cook County Little Red School House", "Address": "9800 Willow Springs Rd, Willow Springs, IL 60480", "Phone_Numb": "708 839 6897" }, "geometry": { "type": "Point", "coordinates": [ -87.876885714625416, 41.708743830763432 ] } }
+]
+}
