@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "Id": 0, "Name": "Cook County Sagawau Environmental Learning Center", "Address": "12545 W. 111th St. Lemont, IL", "Phone_Numb": "630-257-2045" }, "geometry": { "type": "Point", "coordinates": [ -87.929199047803962, 41.687709557923789 ] } },
