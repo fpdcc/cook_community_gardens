@@ -28,4 +28,4 @@ If you'd like to check yourself, you can run `./script/cibuild` locally, or past
 http://geocoder.us/.
 
 
-thanks to @benbalter for the improved repo with geojson validation script
+thanks to [benbalter/dc-wifi-social](https://github.com/benbalter/dc-wifi-social) for the improved repo with geojson validation script
