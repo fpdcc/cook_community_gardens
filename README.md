@@ -25,7 +25,7 @@ If you'd like to check yourself, you can run `./script/cibuild` locally, or past
 
 ## How to find the lat/long of a location
 
-Pop it into http://geocoder.us/. Boom.
+http://geocoder.us/.
 
 
 thanks to @benbalter for the improved repo with geojson validation script
