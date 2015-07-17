@@ -14,7 +14,7 @@ CC-BY-SA
 ## How to contribute
 
 1. Fork the project
-2. Add or edit a location by editing and following the format in `bars.geojson` (hint, it's geoJSON)
+2. Add or edit a location by editing and following the format in `CommunityGardens.geojson`
 3. Submit a pull request
 
 ## Validating the geoJSON
