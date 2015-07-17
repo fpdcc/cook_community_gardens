@@ -1,1 +1,5 @@
+#to avoid Travis Ci 'permission denied' issue
+before_script:
+ - chmod +x ./script
+
 script: ./script/cibuild
